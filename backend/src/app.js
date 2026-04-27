@@ -9,7 +9,7 @@ const app = express();
 const allowedOrigins = [
   "https://nnyocha.com",
   "https://www.nnyocha.com",
-  "http://localhost:5176",
+  "http://localhost:5173",
 ];
 
 app.use(
